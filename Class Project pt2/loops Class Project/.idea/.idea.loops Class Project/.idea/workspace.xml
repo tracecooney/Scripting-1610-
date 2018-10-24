@@ -14,13 +14,14 @@
       <file leaf-file-name="Loops.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Loops.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="285">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
-                <marker date="1540414205574" expanded="true" signature="55:263" ph="{...}" />
-                <marker date="1540414205574" expanded="true" signature="130:199" ph="{...}" />
-                <marker date="1540414205574" expanded="true" signature="165:196" ph="{...}" />
-                <marker date="1540414205574" expanded="true" signature="254:261" ph="{...}" />
+                <marker date="1540414740844" expanded="true" signature="55:364" ph="{...}" />
+                <marker date="1540414740844" expanded="true" signature="159:300" ph="{...}" />
+                <marker date="1540414740844" expanded="true" signature="202:233" ph="{...}" />
+                <marker date="1540414740844" expanded="true" signature="266:294" ph="{...}" />
+                <marker date="1540414740844" expanded="true" signature="355:362" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,7 +48,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="110" />
     <option name="y" value="561" />
     <option name="width" value="1538" />
@@ -110,12 +111,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540413653594</updated>
-      <workItem from="1540413657791" duration="571000" />
+      <workItem from="1540413657791" duration="1666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="571000" />
+    <option name="totallyTimeSpent" value="1666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -128,7 +129,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="110" y="561" width="1538" height="520" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
@@ -165,13 +165,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Loops.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="285">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <marker date="1540414205574" expanded="true" signature="55:263" ph="{...}" />
-            <marker date="1540414205574" expanded="true" signature="130:199" ph="{...}" />
-            <marker date="1540414205574" expanded="true" signature="165:196" ph="{...}" />
-            <marker date="1540414205574" expanded="true" signature="254:261" ph="{...}" />
+            <marker date="1540414740844" expanded="true" signature="55:364" ph="{...}" />
+            <marker date="1540414740844" expanded="true" signature="159:300" ph="{...}" />
+            <marker date="1540414740844" expanded="true" signature="202:233" ph="{...}" />
+            <marker date="1540414740844" expanded="true" signature="266:294" ph="{...}" />
+            <marker date="1540414740844" expanded="true" signature="355:362" ph="{...}" />
           </folding>
         </state>
       </provider>
